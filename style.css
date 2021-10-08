@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+    )
+}
+.container {
+    text-align: center;
+    padding: 5px 5px;
+    border: 2px solid rgb(155, 20, 20);
+    color:rgb(233, 42, 131);
+    background:rgb(133, 196, 221);
+}
+body {
+    background:rgb(100, 192, 39);
+}
+.navbar {
+    
+    border: 2px solid black;
+}
